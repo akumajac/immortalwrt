@@ -1,4 +1,6 @@
 src-git packages https://github.com/akumajac/packages.git;openwrt-18.06
 src-git luci https://github.com/padavanonly/luci.git;openwrt-18.06-k5.4
-src-git routing https://github.com/openwrt/routing.git
+src-git routing https://git.openwrt.org/feed/routing.git^a7b79a1d4fce4f443854115ee4b2ed2aafba5c06
 src-git telephony https://github.com/openwrt/telephony.git
+src-git istore https://github.com/linkease/istore;main
+src-git luci-app-easymesh https://github.com/ntlf9t/luci-app-easymesh;main
