@@ -3,4 +3,3 @@ src-git luci https://github.com/akumajac/luci.git;openwrt-18.06-k5.4
 src-git routing https://github.com/openwrt/routing.git
 src-git telephony https://github.com/openwrt/telephony.git
 src-git istore https://github.com/linkease/istore;main
-src-git luci-app-easymesh https://github.com/ntlf9t/luci-app-easymesh;main
