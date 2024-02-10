@@ -1,5 +1,5 @@
-src-git packages https://github.com/akumajac/packages.git;openwrt-18.06
-src-git luci https://github.com/akumajac/luci.git;openwrt-18.06-k5.4
-src-git routing https://github.com/openwrt/routing.git
-src-git telephony https://github.com/openwrt/telephony.git
-src-git istore https://github.com/linkease/istore;main
+src-git packages https://mirror.ghproxy.com/github.com/akumajac/packages.git;openwrt-18.06
+src-git luci https://mirror.ghproxy.com/github.com/akumajac/luci.git;openwrt-18.06-k5.4
+src-git routing https://mirror.ghproxy.com/github.com/openwrt/routing.git
+src-git telephony https://mirror.ghproxy.com/github.com/openwrt/telephony.git
+src-git istore https://mirror.ghproxy.com/github.com/linkease/istore;main
